@@ -15,4 +15,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Pratik-WS&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<a href="https://app.daily.dev/gryffindor"><img src="https://api.daily.dev/devcards/v2/bBwhN03bFFiucQJV7fgvl.png?type=default&r=ueh" width="356" alt="pratik's Dev Card"/></a>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
